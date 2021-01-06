@@ -22,6 +22,3 @@ Integrating all the previous parts into a complete software product.
 ### special thanks to ElevationAcademy, Adva and Mobileye mentors!
 ![logo](https://user-images.githubusercontent.com/57594477/98829618-142f0780-2442-11eb-87c5-93eb1a3cda2b.PNG)
 
-# mobileye-project
-# mobileye-project
-# mobileye-project
